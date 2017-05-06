@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-playground",
+  "version": "1.0.0",
+  "description": "Demos and such for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgisler/nodejs-playground.git"
+  },
+  "keywords": [
+    "nodejs",
+    "code",
+    "playground",
+    "demo"
+  ],
+  "author": "Jim Gisler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgisler/nodejs-playground/issues"
+  },
+  "homepage": "https://github.com/jgisler/nodejs-playground#readme"
+}
