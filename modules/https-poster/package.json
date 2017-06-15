@@ -1,0 +1,15 @@
+{
+  "name": "https-poster",
+  "version": "1.0.0",
+  "description": "Make an HTTPS POST request",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "James Gisler",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgisler/nodejs-playground.git"
+  }
+}
